@@ -8,6 +8,7 @@ Own tokenizer · Own base model · Apache-2.0
 
 ---
 
+> **This repo is a mirror**: the canonical repo is <https://github.com/Chesi-AI-Models/Chesi-AI>.
 ## What this is
 
 Chesi (澈思) is a **Chinese-personality** multimodal small model. Unlike the common
